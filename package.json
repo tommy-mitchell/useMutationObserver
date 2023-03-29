@@ -1,5 +1,5 @@
 {
-  "name": "usemutationobserver",
+  "name": "react-use-mutation-observer",
   "version": "1.0.0",
   "description": "Performant react hook for WebApi MutationObserver",
   "main": "dist/index.js",
