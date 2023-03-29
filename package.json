@@ -1,0 +1,49 @@
+{
+  "name": "usemutationobserver",
+  "version": "1.0.0",
+  "description": "Performant react hook for WebApi MutationObserver",
+  "main": "dist/index.js",
+  "types": "dist/@types/index.d.ts",
+  "scripts": {
+    "test": "exit 0",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prma85/useMutationObserver.git"
+  },
+  "keywords": [
+    "mutation observer",
+    "reporting observer",
+    "mutation observer hook",
+    "web appi",
+    "performance",
+    "use",
+    "react",
+    "hooks",
+    "observer"
+  ],
+  "author": {
+    "name": "Paulo Andrade",
+    "email": "paulo85br@gmail.com",
+    "url": "https://github.com/prma85"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prma85/useMutationObserver/issues"
+  },
+  "homepage": "https://github.com/prma85/useMutationObserver#readme",
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "sideEffects": false,
+  "peerDependencies": {
+    "react": ">= 16.8",
+    "react-dom": ">= 16.8"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.37",
+    "typescript": "^5.0.2"
+  }
+}
