@@ -1,5 +1,5 @@
 {
-  "name": "react-use-mutation-observer",
+  "name": "@tommy-mitchell/react-use-mutation-observer",
   "version": "1.0.0",
   "description": "Performant react hook for WebApi MutationObserver",
   "type": "module",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prma85/useMutationObserver.git"
+    "url": "git+https://github.com/tommy-mitchell/useMutationObserver.git"
   },
   "keywords": [
     "mutation observer",
@@ -34,9 +34,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prma85/useMutationObserver/issues"
+    "url": "https://github.com/tommy-mitchell/useMutationObserver/issues"
   },
-  "homepage": "https://github.com/prma85/useMutationObserver#readme",
+  "homepage": "https://github.com/tommy-mitchell/useMutationObserver#readme",
   "engines": {
     "node": ">=8",
     "npm": ">=5"

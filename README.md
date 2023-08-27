@@ -5,20 +5,20 @@ Performant react hook for WebApi Mutation Observer
 ## Installation
 
 ```bash
-npm install react-use-mutation-observer
+npm install @tommy-mitchell/react-use-mutation-observer
 ```
 
 or
 
 ```bash
-yarn add react-use-mutation-observer
+yarn add @tommy-mitchell/react-use-mutation-observer
 ```
 
 ## Example without value
 
 ```tsx
 import React, { useState, useRef } from 'react'
-import useMutationObserver from 'react-use-mutation-observer'
+import useMutationObserver from '@tommy-mitchell/react-use-mutation-observer'
 
 const App = () => {
   const [target, setTarget] = useRef()
@@ -49,7 +49,7 @@ const App = () => {
 
 ```tsx
 import React, { useState, useRef } from 'react'
-import useMutationObserver from 'react-use-mutation-observer'
+import useMutationObserver from '@tommy-mitchell/react-use-mutation-observer'
 
 const App = () => {
   const [target, setTarget] = useRef()
